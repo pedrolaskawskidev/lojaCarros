@@ -1,9 +1,9 @@
 <?php
 
-define('HOST', 'database-1.cexkkonryx1a.us-east-1.rds.amazonaws.com');
-define('USER', 'admin');
-define('PASS', 'laskawski123');
-define('DATABASE', 'lojaCarro');
+define('HOST', '');
+define('USER', '');
+define('PASS', '');
+define('DATABASE', '');
 
 class Database {
     private $host;
